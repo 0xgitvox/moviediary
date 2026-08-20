@@ -1,0 +1,11 @@
+{
+  "name": "moviediary",
+  "version": "1.0.0",
+  "description": "Keeps a watchlist and diary of films with ratings and short reviews.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "license": "MIT"
+}
